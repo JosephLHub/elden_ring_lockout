@@ -1,0 +1,369 @@
+Restricted Specific Boss, Bewitch one of Commander Niall's summons, 2
+Restricted Specific Boss, Poison a Draconic Tree Sentinel without aggroing it, 1
+Restricted Specific Boss, Cause an Erdtree Burial Watchdog to attack another, 1
+Restricted Specific Boss, Parry an attack from Maliketh, 2
+Restricted Specific Boss, Beat Rennala's 1st Phase in a single cycle, 1
+Restricted Specific Boss, Kill Rennala after she summons all 4 different summons, 1
+Restricted Specific Boss, Kill an Astel with Astel's Wing, 2
+Restricted Specific Boss, Beat Mohg without using the Purifying Crystal Tear, 2
+Restricted Specific Boss, Kill Stray Mimic Tear with Mimic Tear, 2
+Restricted Specific Boss, Kill the Highroad Cave Guardian Golem without Crits, 1
+Restricted Specific Boss, Kill Rykard without using Serpent-Hunter, 2
+Restricted Specific Boss, Kill Commander O'Neil with a geyser, 1
+Restricted Specific Boss, Be Deathblighted by Fortissax, 2
+Restricted Specific Boss, Kill Crucible Knight Siluria wearing the Crucible Tree Set, 2
+Restricted Specific Boss, Kill the Remembrance Astel without entering Renna's Rise, 1
+Restricted Specific Boss, Kill Darriwil after summoning Blaidd, 1
+Restricted Specific Boss, Kill Godrick with consumables only, 1
+Restricted Specific Boss, Summon Omenkiller Rollo against the Omenkiller boss, 2
+Restricted Specific Boss, Kill Radahn without summoning, 1
+Restricted Specific Boss, Kill Morgott while keeping Melina alive, 2
+Restricted Specific Boss, Kill Fire Giant without summons or Torrent, 2
+Restricted Specific Boss, Summon Finlay against Malenia, 2
+Restricted Specific Boss, Kill Placidusax only using Dragon Incantations, 2
+Restricted Specific Boss, Tank a full Waterfowl Dance w/o blocking or moving, 2
+Restricted Specific Boss, Heal the Divine Beast mid-fight, 3
+Restricted Specific Boss, Dodge Rellana's Twin Moons with a Moon sorcery, 3
+Restricted Specific Boss, Kill Commander Gaius while on Torrent, 3
+Restricted Specific Boss, Kill Scadutree Avatar without Crits, 3
+Restricted Specific Boss, Kill Scadutree Avatar with Staff of the Avatar, 4
+Restricted Specific Boss, Summon a Fingercreeper against Metyr, 3
+Restricted Specific Boss, Kill Metyr with Finger sorceries only, 3
+Restricted Specific Boss, Stance break Radagon via parrying, 2
+Restricted Specific Boss, Stance break Midra via parrying, 3
+Restricted Specific Boss, Complete Midra's 1st phase hitless, 3
+Restricted Specific Boss, Aggro both Hinterlands Tree Sentinels & kill them, 3
+Restricted Specific Boss, Kill Wormface without wearing Vitality-boosting gear, 1
+Restricted Specific Boss, Summon Fire Knight Queelign against Messmer, 3
+Restricted Specific Boss, Have Trolls kill the Stormhill Death Bird, 1
+Specific Boss, Kill the Divine Bridge Guardian Golem, 1
+Specific Boss, Kill the Lake of Rot Dragonkin Soldier, 2
+Specific Boss, Kill the Caelid Bell-Bearing Hunter, 2
+Specific Boss, Defeat the Chapel of Anticipation Grafted Scion, 1
+Specific Boss, Kill Crucible Knight Devonia, 3
+Specific Boss, Beat Morgott 3 times, 2
+Specific Boss, Kill 3 different Red Wolves, 1
+Specific Boss, Kill the frozen river Death Rite Bird, 2
+Specific Boss, Kill Senessax, 3
+Specific Boss, Kill the Hinterlands Fallingstar Beast, 3
+Specific Boss, Kill the Full-Grown Fallingstar Beast, 1
+Specific Boss, Kill Smarag, 1
+Specific Boss, Kill Greyll, 2
+Specific Boss, Kill Lansseax, 1
+Any Boss, Kill a DLC Boss with Perfumed Oil of Ranah, 3
+Any Boss, Kill an Erdtree Avatar with Shadow Sunflower Blossom, 4
+Any Boss, Kill all 4 Liurnia Evergaol Bosses, 2
+Any Boss, Kill a Remembrance Boss without healing, 1
+Any Boss, Kill a Remembrance Boss in Heavy Equip Load, 1
+Any Boss, Kill a Caelid Boss with a +0 weapon, 1
+Any Boss, Kill a Liurnia Boss with a Ruptured Crystal Tear Physick, 1
+Any Boss, Kill a Boss while wearing both Woe Talismans, 1
+Any Boss, Kill a DLC Boss with the Stone Sheathed Sword, 3
+Any Boss, Kill any Boss riding a horse while on Torrent, 1
+Any Boss, Kill a Dragon using only Dragon Incantations, 1
+Any Boss, Kill a Boss using only Bows, 1
+Any Boss, Kill a Boss with a DoT effect, 1
+Any Boss, Kill a Boss with Rusted Anchor and Jellyfish Shield equipped, 1
+Any Boss, Kill a Boss without hitting it with the same weapon more than once, 1
+Any Boss, Kill a Boss only using equipment that shares its first letter with the Boss, 1
+Any Boss, Kill 6 Bosses in the Weeping Peninsula, 1
+Restricted Enemy, Explode a Stone Miner with fire damage, 1
+Restricted Enemy, Kill a Flame Chariot with a plunging attack, 1
+Restricted Enemy, Poison a Land Squirt, 1
+Restricted Enemy, Heal a Royal Revenant to death, 1
+Restricted Enemy, Kill a Fingercreeper with the Ringed Finger's Ash of War, 1
+Restricted Enemy, Kill a Gravebird while wearing the full Gravebird set, 3
+Restricted Enemy, Get the moat crab to kill Dung Eater, 2
+Restricted Enemy, Kill a Dragon with Igon's harpoons, 3
+Enemy, Beat all 4 Limgrave invasions, 1
+Enemy, Obtain a Larval Tear from a Lobster, 1
+Enemy, Beat all 3 Anastasia invasions, 2
+Enemy, Beat all 3 Nameless White Mask invasions, 2
+Enemy, Kill the Leyndell Knight in Liurnia, 1
+Enemy, Kill the 2 Grafted Scions in Fringefolk Hero's Grave, 1
+Enemy, Kill Maleigh Marais, 1
+Enemy, Kill the Caelid Laser Golem, 2
+Enemy, Genocide Jarburg, 1
+Enemy, Kill Preceptor Miriam twice, 1
+Weapon, Acquire the Wakizashi, 1
+Weapon, Acquire the Cinquedea, 1
+Weapon, Acquire the Blade of Calling, 2
+Weapon, Acquire the Rotten Crystal Sword, 2
+Weapon, Acquire the Miquellan Knight's Sword, 2
+Weapon, Acquire the Coded Sword, 2
+Weapon, Acquire the Inseperable Sword, 2
+Weapon, Acquire the Alabaster Lord's Sword, 2
+Weapon, Acquire the Mantis Blade, 1
+Weapon, Acquire the Meteoric Ore Blade, 1
+Weapon, Acquire the Euporia, 3
+Weapon, Acquire the Nox Flowing Hammer, 1
+Weapon, Acquire the Serpent's Flail, 3
+Weapon, Acquire the Brick Hammer, 1
+Weapon, Acquire the Celebrant's Skull, 1
+Weapon, Acquire the Watchdog's Staff, 1
+Weapon, Acquire the Staff of the Avatar, 2
+Weapon, Acquire the Crystal Spear, 1
+Weapon, Acquire the Venomous Fang, 1
+Weapon, Acquire the Black Bow, 2
+Weapon, Acquire the Erdtree Bow, 2
+Weapon, Acquire the Spread Crossbow, 3
+Weapon, Acquire the Full Moon Crossbow, 1
+Weapon, Acquire the Rabbath's Cannon, 3
+Weapon, Acquire the Carian Glintstone Staff, 1
+Weapon, Acquire the Albinauric Staff, 1
+Weapon, Acquire the Prince of Death's Staff, 2
+Weapon, Acquire the Dryleaf Seal, 3
+Weapon, Acquire the Giant's Seal, 2
+Weapon, Acquire the Dragon Communion Seal, 1
+Weapon, Acquire the Lamenting Visage, 3
+Weapon, Acquire the Velvet Sword of St. Trina, 3
+Weapon, Acquire the Carian Sorcery Sword, 3
+Weapon, Acquire the Falx, 3
+Weapon, Acquire the Euporia, 3
+Weapon, Acquire the Bloodfiend's Arm, 3
+Weapon, Acquire the Pillory Shield, 1
+Weapon, Acquire the Ice Crest Shield, 1
+Weapon, Acquire the Spiralhorn Shield, 1
+Weapon, Acquire the Coil Shield, 1
+Weapon, Acquire the Shield of Night, 3
+Weapon, Acquire the Marred Wooden Shield, 1
+Weapon, Acquire the Inverted Hawk Heater Shield, 1
+Weapon, Acquire the Eclipse Crest Heater Shield, 1
+Weapon, Acquire the Great Turtle Shell, 1
+Weapon, Acquire the Manor Towershield, 1
+Weapon, Acquire the Fingerprint Stone Shield, 2
+Weapon, Acquire the One-Eyed Shield, 2
+Weapon, Acquire the Godslayer's Greatsword, 2
+Weapon, Acquire the Serpent Crest Shield/Complete the Incursion Painting, 3
+Weapon, Acquire the Spiraltree Seal/Complete the Sacred Tower Painting, 3
+Weapon, Acquire the Harp Bow/Complete the Champion's Song Painting, 1
+Weapon, Acquire the Glintstone Kris, 1
+Weapon, Acquire the Beastclaw Greathammer/Give Gurranq 7 Deathroot, 2
+Weapon, Acquire both Azur's and Lusat's Staffs, 1
+Weapon, Acquire the Erdtree Greatbow, 1
+Weapon, Acquire both Butchering Knives, 4
+Weapon, Discard +0 Bloodhound's Fang, 1
+Weapon, Discard +0 Reduvia, 1
+Weapon, Acquire both Hoslow's Petal Whips, 2
+Weapon, Acquire the Frenzied Flame Seal, 2
+Armour, Retrieve the Black Wolf Mask, 1
+Armour, Retrieve the Bloodsoaked Set, 2
+Armour, Retrieve the Drake Knight Set, 2
+Armour, Retrieve the Lazuli Glintstone Crown, 1
+Armour, Retrieve Lionel's Set, 2
+Armour, Retrieve the Navy Hood and Crimson Hood, 1
+Armour, Retrieve the Nomadic Merchant's Set, 2
+Armour, Retrieve the Raptor's Set, 1
+Armour, Retrieve the Ruler's Set, 1
+Armour, Retrieve the Sage Set, 1
+Armour, Retrieve the Traveler's Set, 2
+Armour, Retrieve the Traveling Maiden Set, 2
+Armour, Retrieve the Tree Sentinel Set, 1
+Armour, Retrieve all Scarab Helms, 1
+Armour, Retrieve the Juvenile Scholar Set/Complete the Resurrection Painting, 1
+Armour, Retrieve the Greathood/Complete the Sorcerer Painting, 2
+Armour, Retrieve Azur's and Lusat's Sets, 1
+Armour, Retrieve the Raging Wolf Set/Complete the 'Letter to Bernahl' assassination, 2
+Armour, Retrieve Dane's Set, 3
+Armour, Retrieve the Death Knight's Set, 3
+Armour, Retrieve Gaius's Greaves, 3
+Armour, Retrieve both Highland Warrior Sets, 3
+Armour, Retrieve the Night Set, 3
+Armour, Retrieve the 3 unique Fire Knight Helms/Kill the 3 Fire Knight minibosses, 3
+Armour, Retrieve the Greatjar Helm, 3
+Armour, Retrieve the Albinauric Mask, 1
+Armour, Retrieve the unaltered Commoner's Headband, 1
+Armour, Retrieve the Envoy Crown, 2
+Armour, Retrieve the Battlemage Set, 1
+Armour, Retrieve the Imp Head (Corpse), 2
+Armour, Retrieve the Imp Head (Elder), 2
+Armour, Retrieve the Mushroom Crown, 2
+Talisman, Get the Silver Scarab, 2
+Talisman, Get the Cerulean Amber Medallion +1, 2
+Talisman, Get the Cerulean Amber Medallion +2, 2
+Talisman, Get the Boltdrake Talisman +2, 2
+Talisman, Get the Boltdrake Talisman +3, 3
+Talisman, Get the Haligdrake Talisman, 1
+Talisman, Get the Spelldrake Talisman +1, 1
+Talisman, Get the Pearldrake Talisman, 1
+Talisman, Get the Pearldrake Talisman +3, 3
+Talisman, Get the Dragoncrest Shield Talisman +1, 1
+Talisman, Get the Dragoncrest Greatshield Talisman, 2
+Talisman, Get the Clarifying Horn Charm +1, 1
+Talisman, Get the Immunizing Horn Charm +1, 2
+Talisman, Get the Mottled Necklace, 1
+Talisman, Get the Mottled Necklace +2, 3
+Talisman, Get the Arsenal Charm +1, 1
+Talisman, Get the Great Jar's Arsenal Charm/Kill the 3 Greatjar Warriors, 1
+Talisman, Get the Verdigris Discus/Use the Waygate behind Castle Ensis, 3
+Talisman, Get the Marika's Soreseal, 2
+Talisman, Get the Outer God Heirloom, 3
+Talisman, Get the Aged One's Exultation, 3
+Talisman, Get the Blade of Mercy, 3
+Talisman, Get the Prince of Death's Pustule, 1
+Talisman, Get the Prince of Death's Cyst, 2
+Talisman, Get the Dagger Talisman, 1
+Talisman, Get the Claw Talisman, 1
+Talisman, Get the Arrow's Soaring Sting Talisman, 3
+Talisman, Get the Talisman of the Dread, 3
+Talisman, Get the Graven-School Talisman, 1
+Talisman, Get the Graven-Mass Talisman, 2
+Talisman, Get the Flock's Canvas Talisman, 2
+Talisman, Get the Moon of Nokstella, 2
+Talisman, Get the Old Lord's Talisman, 2
+Talisman, Get the Carian Filigreed Crest, 1
+Talisman, Get the Assassin's Cerulean Dagger, 1
+Talisman, Get the Fire Scorpion Charm, 1
+Talisman, Get the Shard of Alexander/Complete Alexander's Questline, 2
+Talisman, Get the Magic Scorpion Charm/Acquire the Amber Draught, 1
+Talisman, Get both Feathered Branchswords, 1
+Talisman, Get all Crucible Talismans, 2
+Ash of War, Snag the Piercing Throw AoW, 3
+Ash of War, Snag the Rolling Sparks AoW, 3
+Ash of War, Snag the Raging Beast AoW, 3
+Ash of War, Snag the Wing Stance AoW, 3
+Ash of War, Snag the Blinkbolt AoW, 3
+Ash of War, Snag the Carian Sovereignty AoW, 3
+Ash of War, Snag the Stamp (Sweep) AoW, 1
+Ash of War, Snag the Lion's Claw AoW, 1
+Ash of War, Snag the Earthshaker AoW, 1
+Ash of War, Snag the Troll's Roar AoW, 2
+Ash of War, Snag the Vacuum Slice AoW, 2
+Ash of War, Snag the Royal Knight's Resolve AoW, 1
+Ash of War, Snag the Gravitas AoW, 1
+Ash of War, Snag the Prelate's Charge AoW, 2
+Ash of War, Snag the Lightning Ram AoW, 1
+Ash of War, Snag the Golden Land AoW, 2
+Ash of War, Snag the Golden Vow AoW, 1
+Ash of War, Snag the Blood Tax AoW, 2
+Ash of War, Snag the Seppuku AoW, 2
+Ash of War, Snag the Enchanted Shot AoW, 1
+Ash of War, Snag the Golden Parry AoW, 1
+Ash of War, Snag the Shield Bash AoW, 1
+Ash of War, Snag the White Shadow's Lure AoW, 2
+Ash of War, Snag the Poisonous Mist AoW, 1
+Ash of War, Snag the Charge Forth AoW, 1
+Ash of War, Snag the Raptor of the Mists AoW, 1
+Spell, Obtain Glintblade Trio, 3
+Spell, Obtain Impenetrable Thorns, 3
+Spell, Obtain Mass of Putrescence, 3
+Spell, Obtain Briars of Sin, 1
+Spell, Obtain Collapsing Stars, 1
+Spell, Obtain Eternal Darkness, 1
+Spell, Obtain Founding Rain of Stars, 2
+Spell, Obtain Carian Piercer, 1
+Spell, Obtain Great Oracular Bubble, 1
+Spell, Obtain Night Comet, 1
+Spell, Obtain Rancorcall, 1
+Spell, Obtain Ranni's Dark Moon, 2
+Spell, Obtain Shattering Crystal, 1
+Spell, Obtain Terra Magica, 1
+Spell, Obtain Aspects of the Crucible: Bloom, 3
+Spell, Obtain Multilayered Ring of Light, 3
+Spell, Obtain Knight's Lightning Spear, 3
+Spell, Obtain Giant Golden Arc, 3
+Spell, Obtain Spira, 3
+Spell, Obtain Barrier of Gold, 2
+Spell, Obtain Black Flame's Protection, 2
+Spell, Obtain Bloodflame Blade, 1
+Spell, Obtain Elden Stars, 2
+Spell, Obtain Poison Mist, 1
+Spell, Obtain Shadow Bait, 2
+Spell, Obtain Triple Rings of Light, 2
+Spell, Obtain Whirl O Flame, 1
+Spell, Obtain Unendurable Frenzy, 2
+Spell, Obtain Fire's Deadly Sin/Complete the Flightless Bird Painting, 2
+Spell, Obtain Shard Spiral, 1
+Spell, Obtain Thops' Barrier/Light up a Glintstone Crown, 1
+Spell, Obtain Immutable Shield/Solve the Leyndell statue puzzle, 2
+Spell, Obtain Bestial Vitality/Give Gurranq 3 Deathroot, 1
+Spell, Obtain Gurranq's Beast Claw/Give Gurranq 8 Deathroot, 2
+Spell, Obtain Aspects of the Crucible: Breath/Kill Tanith's Knight, 1
+Spell, Obtain all Full Moon Sorceries, 2
+Spell, Obtain both of Loretta's Sorceries, 2
+Spell, Obtain all 3 Phalanx Sorceries, 1
+Spell, Obtain Unseen Blade/Complete the Mirage Rise puzzle, 1
+Spirit Ashes, Pick up the Gravebird Ashes, 3
+Spirit Ashes, Pick up the Fire Knight Hilde Ashes, 3
+Spirit Ashes, Pick up the Spider Scorpion Ashes, 3
+Spirit Ashes, Pick up the Inquisitor Ashes, 3
+Spirit Ashes, Pick up the Black Knight Commander Andreas Ashes, 3
+Spirit Ashes, Pick up the Bigmouth Imp Ashes, 3
+Spirit Ashes, Pick up the Man-Fly Ashes, 3
+Spirit Ashes, Pick up the Divine Bird Warrior Ornis Ashes, 3
+Spirit Ashes, Pick up the Fingercreeper Ashes, 3
+Spirit Ashes, Pick up the Nomad Ashes, 2
+Spirit Ashes, Pick up the Albinauric Ashes, 1
+Spirit Ashes, Pick up the Clayman Ashes, 1
+Spirit Ashes, Pick up the Oracle Envoy Ashes, 2
+Spirit Ashes, Pick up the Rotten Stray Ashes, 1
+Spirit Ashes, Pick up the Giant Rat Ashes, 1
+Spirit Ashes, Pick up the Miranda Sprout Ashes, 1
+Spirit Ashes, Pick up the Vulgar Militia Ashes, 1
+Spirit Ashes, Pick up the Avionette Soldier Ashes, 1
+Spirit Ashes, Pick up the Fire Monk Ashes, 2
+Spirit Ashes, Pick up the Azula Beastman Ashes, 2
+Spirit Ashes, Pick up the Crystalian Ashes, 1
+Spirit Ashes, Pick up the Godrick Soldier Ashes, 1
+Spirit Ashes, Pick up the Leyndell Soldier Ashes, 1
+Spirit Ashes, Pick up the Haligtree Soldier Ashes, 2
+Spirit Ashes, Pick up the Stormhawk Deenh Ashes, 1
+Spirit Ashes, Pick up the Latenna The Albinauric Ashes, 1
+Spirit Ashes, Pick up the Nightmaiden & Swordstress Puppets Ashes, 2
+Spirit Ashes, Discard +0 Black Knife Tiche Ashes, 2
+Spirit Ashes, Discard +0 Mimic Tear Ashes, 2
+Misc, Light up a Glintstone Crown, 1
+Misc, Deflect a projectile with Storm Wall, 1
+Misc, Ride the Gelmir Hero's Grave Chariot, 1
+Misc, Confront Gostoc when he stalks you, 1
+Misc, Use Memory of Grace with over 50k Runes, 1
+Misc, Reach 30 Intelligence (no rebirth or stat boosts), 1
+Misc, Give 4 Scrolls & Prayerbooks to Miriel, 1
+Misc, Be affected by every status effect (not all at once), 1
+Misc, Go New Game Plus, 2
+Misc, Reach Rune Level 100, 1
+Misc, Achieve light load with all equipment slots filled, 1
+Misc, Reach 100 Poise, 1
+Misc, Receive Absolution, 1
+Misc, Benefit from the Longtail Cat Talisman, 1
+Misc, Reach Mohgwyn Palace through the portal in Consecrated Snowfields, 2
+Misc, Teleport to Volcano Manor via Abductor Virgin, 1
+Misc, Convert the Sword of Light/Dark into the opposite, 3
+Misc, Cure yourself of the Frenzied Flame, 2
+Misc, Parry magic with the Erdtree Greatshield, 1
+Quest, Kill Kenneth Haight with the Erdsteel Dagger, 1
+Quest, Obtain the Ronin's Set without killing Shabriri-Yura, 2
+Quest, Free Alexander from his hole in Liurnia, 1
+Quest, Obtain Dancer's Castanets, 1
+Quest, Tell Boc he's beautiful, 2
+Quest, Summon Millicent to fight 4 different bosses, 2
+Quest, Take Latenna to Apostate Derelict, 2
+Quest, Kill Dung Eater to save Blackguard Boggart, 2
+Quest, Get Rya's Necklace without paying, 1
+Quest, Get Boggart to say "Marika's tits", 1
+Quest, Give Gideon Seluvis' Potion, 1
+Quest, Make Nepheli Loux the Lord of Limgrave, 2
+Quest, Turn Nepheli Loux into a puppet, 1
+Quest, Turn Dung Eater into a puppet, 2
+Quest, Soak the Lord of Blood's Favor in Hyetta's blood, 1
+Quest, Challenge Dryleaf Dane, 3
+Quest, "Kill" Hornsent Grandam before fighting the Divine Beast, 3
+Quest, Acquire 2 Gourmet Scorpion Stews, 3
+Item, Acquire 1 Dectus & 1 Haligtree Medallion Half/Be Invaded by Ensha, 1
+Item, Acquire both Margit & Mohg's Shackles, 1
+Item, Collect both Gold Needles, 1
+Item, Collect all Maps, 2
+Item, Collect all 3 Talisman Pouches, 2
+Item, Collect all Dragon Transformations, 3
+Item, Learn the Curtsy Gesture, 1
+Item, Learn the Let Us Go Together Gesture, 3
+Item, Learn the Bravo Gesture, 1
+Item, Learn the Fancy Spin Gesture, 2
+Item, Learn the As You Wish Gesture, 1
+Item, Learn the Inner Order Gesture, 1
+Item, Learn the Extreme Repentance Gesture, 1
+Item, Learn the Spread Out Gesture, 1
+Item, Learn the Patches Crouch Gesture, 1
+Item, Reach Max Flask amount, 2
+Item, Reach 10 Flasks, 1
+Item, Reach Max Flask potency, 2
